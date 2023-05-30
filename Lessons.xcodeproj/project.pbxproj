@@ -7,18 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991BE2A260D160096F540 /* ContextMenuView.swift */; };
+		875991C12A260E680096F540 /* DarkModeViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C02A260E680096F540 /* DarkModeViews.swift */; };
 		87FAD14E2A25EF8700D80338 /* LessonsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14D2A25EF8700D80338 /* LessonsApp.swift */; };
 		87FAD1502A25EF8700D80338 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14F2A25EF8700D80338 /* ContentView.swift */; };
 		87FAD1522A25EF8900D80338 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87FAD1512A25EF8900D80338 /* Assets.xcassets */; };
 		87FAD1552A25EF8900D80338 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87FAD1542A25EF8900D80338 /* Preview Assets.xcassets */; };
+		87FAD15C2A25F16200D80338 /* lessonsview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD15B2A25F16200D80338 /* lessonsview.swift */; };
+		87FAD15E2A25F4EB00D80338 /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD15D2A25F4EB00D80338 /* AlertView.swift */; };
+		87FAD1602A25F93F00D80338 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD15F2A25F93F00D80338 /* Animation.swift */; };
+		87FAD1622A25F9AE00D80338 /* Animation2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1612A25F9AE00D80338 /* Animation2.swift */; };
+		87FAD1642A25FD2C00D80338 /* AppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1632A25FD2C00D80338 /* AppStorage.swift */; };
+		87FAD1662A25FF7D00D80338 /* ImageViewAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1652A25FF7D00D80338 /* ImageViewAsync.swift */; };
+		87FAD1682A2600E200D80338 /* OverlayForBackgorund.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1672A2600E200D80338 /* OverlayForBackgorund.swift */; };
+		87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1692A26022D00D80338 /* MaterialBgView.swift */; };
+		87FAD16C2A2604F700D80338 /* BadgesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD16B2A2604F700D80338 /* BadgesView.swift */; };
+		87FAD16E2A26096100D80338 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD16D2A26096100D80338 /* Binding.swift */; };
+		87FAD1722A260A3F00D80338 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1712A260A3F00D80338 /* Buttons.swift */; };
+		87FAD1742A260AD900D80338 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD1732A260AD900D80338 /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		875991BE2A260D160096F540 /* ContextMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
+		875991C02A260E680096F540 /* DarkModeViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeViews.swift; sourceTree = "<group>"; };
 		87FAD14A2A25EF8700D80338 /* Lessons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lessons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87FAD14D2A25EF8700D80338 /* LessonsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsApp.swift; sourceTree = "<group>"; };
 		87FAD14F2A25EF8700D80338 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		87FAD1512A25EF8900D80338 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87FAD1542A25EF8900D80338 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		87FAD15B2A25F16200D80338 /* lessonsview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lessonsview.swift; sourceTree = "<group>"; };
+		87FAD15D2A25F4EB00D80338 /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
+		87FAD15F2A25F93F00D80338 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		87FAD1612A25F9AE00D80338 /* Animation2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation2.swift; sourceTree = "<group>"; };
+		87FAD1632A25FD2C00D80338 /* AppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage.swift; sourceTree = "<group>"; };
+		87FAD1652A25FF7D00D80338 /* ImageViewAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewAsync.swift; sourceTree = "<group>"; };
+		87FAD1672A2600E200D80338 /* OverlayForBackgorund.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayForBackgorund.swift; sourceTree = "<group>"; };
+		87FAD1692A26022D00D80338 /* MaterialBgView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialBgView.swift; sourceTree = "<group>"; };
+		87FAD16B2A2604F700D80338 /* BadgesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesView.swift; sourceTree = "<group>"; };
+		87FAD16D2A26096100D80338 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		87FAD1712A260A3F00D80338 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		87FAD1732A260AD900D80338 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,9 +60,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		875991C22A26140E0096F540 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				875991C02A260E680096F540 /* DarkModeViews.swift */,
+				87FAD15B2A25F16200D80338 /* lessonsview.swift */,
+				87FAD15D2A25F4EB00D80338 /* AlertView.swift */,
+				87FAD15F2A25F93F00D80338 /* Animation.swift */,
+				87FAD1612A25F9AE00D80338 /* Animation2.swift */,
+				87FAD1632A25FD2C00D80338 /* AppStorage.swift */,
+				87FAD1652A25FF7D00D80338 /* ImageViewAsync.swift */,
+				87FAD1672A2600E200D80338 /* OverlayForBackgorund.swift */,
+				87FAD1692A26022D00D80338 /* MaterialBgView.swift */,
+				87FAD16B2A2604F700D80338 /* BadgesView.swift */,
+				87FAD16D2A26096100D80338 /* Binding.swift */,
+				87FAD1712A260A3F00D80338 /* Buttons.swift */,
+				87FAD1732A260AD900D80338 /* ColorPickerView.swift */,
+				875991BE2A260D160096F540 /* ContextMenuView.swift */,
+			);
+			name = Views;
+			path = "üv.e";
+			sourceTree = "<group>";
+		};
 		87FAD1412A25EF8700D80338 = {
 			isa = PBXGroup;
 			children = (
+				875991C22A26140E0096F540 /* Views */,
 				87FAD14C2A25EF8700D80338 /* Lessons */,
 				87FAD14B2A25EF8700D80338 /* Products */,
 			);
@@ -138,6 +189,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				87FAD1502A25EF8700D80338 /* ContentView.swift in Sources */,
+				87FAD15E2A25F4EB00D80338 /* AlertView.swift in Sources */,
+				87FAD15C2A25F16200D80338 /* lessonsview.swift in Sources */,
+				875991C12A260E680096F540 /* DarkModeViews.swift in Sources */,
+				87FAD1722A260A3F00D80338 /* Buttons.swift in Sources */,
+				87FAD1662A25FF7D00D80338 /* ImageViewAsync.swift in Sources */,
+				87FAD1642A25FD2C00D80338 /* AppStorage.swift in Sources */,
+				875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */,
+				87FAD1682A2600E200D80338 /* OverlayForBackgorund.swift in Sources */,
+				87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */,
+				87FAD16E2A26096100D80338 /* Binding.swift in Sources */,
+				87FAD1622A25F9AE00D80338 /* Animation2.swift in Sources */,
+				87FAD1742A260AD900D80338 /* ColorPickerView.swift in Sources */,
+				87FAD16C2A2604F700D80338 /* BadgesView.swift in Sources */,
+				87FAD1602A25F93F00D80338 /* Animation.swift in Sources */,
 				87FAD14E2A25EF8700D80338 /* LessonsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
