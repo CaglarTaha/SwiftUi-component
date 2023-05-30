@@ -77,9 +77,6 @@ SwiftUI bileşenlerinden herhangi birini SwiftUI projenizde kullanmak için ilgi
 
 Bu depoya katkıda bulunmak isteyenlerin katkıları memnuniyetle karşılanır! İyileştirmeleriniz veya paylaşmak istediğiniz yeni SwiftUI bileşenleri varsa, bir pull talebi göndermekten çekinmeyin. Lütfen belirlenen kodlama kurallarına uyun ve katkılarınız için açık bir belgelendirme sağlayın.
 
-## Lisans
-
-Bu depo MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ## Teşekkürler
 
