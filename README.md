@@ -8,6 +8,8 @@ This repository contains a collection of SwiftUI components that I have learned 
 
 The SwiftUI Component repository serves as a showcase of various custom UI components built using SwiftUI, Apple's modern declarative framework for building user interfaces across Apple platforms. Each component is designed to demonstrate a specific SwiftUI concept or feature, providing examples that can be used as a reference for your own projects.
 
+In this repository, I am presenting a server structure that can be utilized as a backend for a Direct App to be used in the future
+
 ## Components
 
 The repository currently includes the following SwiftUI components:
