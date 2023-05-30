@@ -85,7 +85,6 @@
 		87FAD1412A25EF8700D80338 = {
 			isa = PBXGroup;
 			children = (
-				875991C22A26140E0096F540 /* Views */,
 				87FAD14C2A25EF8700D80338 /* Lessons */,
 				87FAD14B2A25EF8700D80338 /* Products */,
 			);
@@ -102,6 +101,7 @@
 		87FAD14C2A25EF8700D80338 /* Lessons */ = {
 			isa = PBXGroup;
 			children = (
+				875991C22A26140E0096F540 /* Views */,
 				87FAD14D2A25EF8700D80338 /* LessonsApp.swift */,
 				87FAD14F2A25EF8700D80338 /* ContentView.swift */,
 				87FAD1512A25EF8900D80338 /* Assets.xcassets */,
