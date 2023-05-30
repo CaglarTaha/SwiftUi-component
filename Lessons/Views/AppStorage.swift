@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct AppStorageBootcamp: View {
+struct AppStorageView: View {
     @AppStorage("name") var currentUserName: String?
     @State private var nameInput: String = ""
     
@@ -30,8 +30,8 @@ struct AppStorageBootcamp: View {
     }
 }
 
-struct AppStorageBootcamp_Previews: PreviewProvider {
+struct AppStorageView_Previews: PreviewProvider {
     static var previews: some View {
-        AppStorageBootcamp()
+        AppStorageView()
     }
 }

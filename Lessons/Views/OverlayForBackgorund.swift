@@ -8,7 +8,7 @@
 import SwiftUI
 
 
-struct BackgroundAndOverlayBootcamp: View {
+struct BackgroundAndOverlayView: View {
     var body: some View {
         Image(systemName: "heart.fill")
             .font(.system(size: 40))
@@ -38,8 +38,8 @@ struct BackgroundAndOverlayBootcamp: View {
     }
 }
 
-struct BackgroundAndOverlayBootcamp_Previews: PreviewProvider {
+struct BackgroundAndOverlayView_Previews: PreviewProvider {
     static var previews: some View {
-        BackgroundAndOverlayBootcamp()
+        BackgroundAndOverlayView()
     }
 }

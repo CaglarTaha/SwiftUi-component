@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct BackgroundMaterialsBootcamp: View {
+struct BackgroundMaterialsView: View {
     var imageUrl = URL(string: "https://img.uhdpaper.com/wallpaper/lion-roar-colorful-digital-art-animal-614@1@k-preview.jpg?dl")
     var body: some View {
         VStack {
@@ -48,8 +48,8 @@ struct BackgroundMaterialsBootcamp: View {
     }
 }
 
-struct BackgroundMaterialsBootcamp_Previews: PreviewProvider {
+struct BackgroundMaterialsView_Previews: PreviewProvider {
     static var previews: some View {
-        BackgroundMaterialsBootcamp()
+        BackgroundMaterialsView()
     }
 }

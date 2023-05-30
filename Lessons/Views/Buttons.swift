@@ -69,7 +69,7 @@ struct ButtonsViews: View {
     }
 }
 
-struct ButtonsBootcamp_Previews: PreviewProvider {
+struct ButtonsViews_Previews: PreviewProvider {
     static var previews: some View {
         ButtonsViews()
     }

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AsyncImageBoocamp: View {
+struct AsyncImageView: View {
     @State var imageUrl: URL?
     
     var body: some View {
@@ -51,8 +51,8 @@ struct AsyncImageBoocamp: View {
     }
 }
 
-struct AsyncImageBoocamp_Previews: PreviewProvider {
+struct AsyncImageView_Previews: PreviewProvider {
     static var previews: some View {
-        AsyncImageBoocamp()
+        AsyncImageView()
     }
 }

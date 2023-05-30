@@ -30,7 +30,7 @@ struct ColorPickerView: View {
     }
 }
 
-struct ColorPickerBootcamp_Previews: PreviewProvider {
+struct ColorPickerView_Previews: PreviewProvider {
     static var previews: some View {
         ColorPickerView()
     }

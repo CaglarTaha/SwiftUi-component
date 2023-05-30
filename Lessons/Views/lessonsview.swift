@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ActionsheetBootcamp: View {
+struct ActionSheetView: View {
     
     @State var showActionSheet: Bool = false
     @State var actionSheetOption: ActionSheetOptions = .isOtherPost
@@ -71,21 +71,12 @@ struct ActionsheetBootcamp: View {
         }
         
         
-        //return ActionSheet(title: Text("This is the title!"))
-        
-//        let button1: ActionSheet.Button = .default(Text("DEFAULT"))
-//        let button2: ActionSheet.Button = .destructive(Text("DESTRUCTIVE"))
-//        let button3: ActionSheet.Button = .cancel()
-//
-//        return ActionSheet(
-//            title: Text("This is the title!"),
-//            message: Text("This is the message."),
-//            buttons: [button1, button1, button1, button1, button1, button2, button3])
+    
     }
 }
 
-struct ActionsheetBootcamp_Previews: PreviewProvider {
+struct ActionSheetView_Preview: PreviewProvider {
     static var previews: some View {
-        ActionsheetBootcamp()
+        ActionSheetView()
     }
 }

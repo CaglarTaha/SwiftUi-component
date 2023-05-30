@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct AnimationTimingBootcamp: View {
+struct AnimationTimingView: View {
     
     @State var isAnimating: Bool = false
     let timing: Double = 10.0
@@ -37,8 +37,8 @@ struct AnimationTimingBootcamp: View {
     }
 }
 
-struct AnimationTimingBootcamp_Previews: PreviewProvider {
+struct AnimationView_Previews: PreviewProvider {
     static var previews: some View {
-        AnimationTimingBootcamp()
+        AnimationTimingView()
     }
 }

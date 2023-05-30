@@ -48,7 +48,7 @@ struct ContextMenuView: View {
     }
 }
 
-struct ContextMenuBootcamp_Previews: PreviewProvider {
+struct ContextMenuView_Previews: PreviewProvider {
     static var previews: some View {
         ContextMenuView()
     }

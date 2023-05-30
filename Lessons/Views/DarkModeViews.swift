@@ -43,7 +43,7 @@ struct DarkModeView: View {
     }
 }
 
-struct DarkModeBootcamp_Previews: PreviewProvider {
+struct DarkModeView_Previews: PreviewProvider {
     static var previews: some View {
         DarkModeView()
     }

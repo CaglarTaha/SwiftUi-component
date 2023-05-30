@@ -10,7 +10,7 @@ import SwiftUI
 // List
 // TabView
 
-struct BadgesBootcamp: View {
+struct BadgesView: View {
     var body: some View {
         List {
             Text("Hello, world!")
@@ -41,8 +41,8 @@ struct BadgesBootcamp: View {
     }
 }
 
-struct BadgesBootcamp_Previews: PreviewProvider {
+struct BadgesView_Previews: PreviewProvider {
     static var previews: some View {
-        BadgesBootcamp()
+        BadgesView()
     }
 }

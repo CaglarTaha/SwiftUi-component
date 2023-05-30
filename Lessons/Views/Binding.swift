@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-struct BindingBootcamp: View {
+struct BindingView: View {
     
     @State var backgroundColor: Color = Color.green
     @State var title: String = "Title"
@@ -48,8 +48,8 @@ struct ButtonView: View {
     }
 }
 
-struct BindingBootcamp_Previews: PreviewProvider {
+struct BindingView_Previews: PreviewProvider {
     static var previews: some View {
-        BindingBootcamp()
+        BindingView()
     }
 }
