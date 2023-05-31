@@ -8,6 +8,8 @@ Bu depo, SwiftUI'yi öğrenme ve geliştirme sürecimde oluşturduğum SwiftUI b
 
 SwiftUI Component deposu, Apple'ın modern bildirim tabanlı çerçevesi olan SwiftUI kullanılarak oluşturulan çeşitli özel kullanıcı arayüzü bileşenlerini sergilemektedir. Her bir bileşen, kendi projeleriniz için bir referans olarak kullanılabilecek belirli bir SwiftUI kavramını veya özelliği göstermek amacıyla tasarlanmıştır.
 
+İleride diretk app olarak kullanabilceğiniz bir App yapısında Sunucam.
+
 ## Bileşenler
 
 Depo şu anda aşağıdaki SwiftUI bileşenlerini içermektedir:
