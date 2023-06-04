@@ -12,6 +12,7 @@
 		875991C52A2739920096F540 /* DarkPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C42A2739920096F540 /* DarkPickerView.swift */; };
 		876E98C92A2741A100C14839 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876E98C82A2741A100C14839 /* ClockView.swift */; };
 		879D7D082A28BBA10097CA05 /* ApiCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879D7D072A28BBA10097CA05 /* ApiCall.swift */; };
+		879D7D0B2A2D20830097CA05 /* NavigateTolistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */; };
 		87FAD14E2A25EF8700D80338 /* LessonsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14D2A25EF8700D80338 /* LessonsApp.swift */; };
 		87FAD1502A25EF8700D80338 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14F2A25EF8700D80338 /* ContentView.swift */; };
 		87FAD1522A25EF8900D80338 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87FAD1512A25EF8900D80338 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		875991C42A2739920096F540 /* DarkPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkPickerView.swift; sourceTree = "<group>"; };
 		876E98C82A2741A100C14839 /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		879D7D072A28BBA10097CA05 /* ApiCall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiCall.swift; sourceTree = "<group>"; };
+		879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateTolistView.swift; sourceTree = "<group>"; };
 		87FAD14A2A25EF8700D80338 /* Lessons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lessons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87FAD14D2A25EF8700D80338 /* LessonsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsApp.swift; sourceTree = "<group>"; };
 		87FAD14F2A25EF8700D80338 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,8 +84,16 @@
 				875991BE2A260D160096F540 /* ContextMenuView.swift */,
 				875991C42A2739920096F540 /* DarkPickerView.swift */,
 				876E98C82A2741A100C14839 /* ClockView.swift */,
+				879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		879D7D092A28BC5B0097CA05 /* Level1Lessons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Level1Lessons;
 			sourceTree = "<group>";
 		};
 		87FAD1412A25EF8700D80338 = {
@@ -105,6 +115,7 @@
 		87FAD14C2A25EF8700D80338 /* Lessons */ = {
 			isa = PBXGroup;
 			children = (
+				879D7D092A28BC5B0097CA05 /* Level1Lessons */,
 				875991C32A2615210096F540 /* Views */,
 				87FAD14D2A25EF8700D80338 /* LessonsApp.swift */,
 				87FAD14F2A25EF8700D80338 /* ContentView.swift */,
@@ -200,6 +211,7 @@
 				87FAD1722A260A3F00D80338 /* Buttons.swift in Sources */,
 				87FAD1662A25FF7D00D80338 /* ImageViewAsync.swift in Sources */,
 				87FAD1642A25FD2C00D80338 /* AppStorage.swift in Sources */,
+				879D7D0B2A2D20830097CA05 /* NavigateTolistView.swift in Sources */,
 				875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */,
 				87FAD1682A2600E200D80338 /* OverlayForBackgorund.swift in Sources */,
 				87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */,
