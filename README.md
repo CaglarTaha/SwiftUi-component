@@ -1,4 +1,3 @@
-### English
 
 # SwiftUI Component
 
