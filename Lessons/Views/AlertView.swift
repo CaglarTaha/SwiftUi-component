@@ -12,6 +12,10 @@ struct AlertView: View {
         case error
         case deneme
         case start
+        case button1
+        case button2
+        case button3
+        
         
     }
     
@@ -117,6 +121,8 @@ struct AlertView: View {
     
     func getAlert() -> Alert {
         switch alertType {
+        case.button1 :
+            return Alert(title: Text("Button 1" ))
         case.start :
             return Alert(title: Text("start"))
         case.deneme :
