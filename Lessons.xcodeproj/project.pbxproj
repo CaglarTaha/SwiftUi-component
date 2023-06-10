@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		873100EC2A32252B0054B4BD /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873100EB2A32252B0054B4BD /* GridView.swift */; };
+		875397012A350C0500AFC620 /* DenemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875397002A350C0500AFC620 /* DenemView.swift */; };
 		875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991BE2A260D160096F540 /* ContextMenuView.swift */; };
 		875991C12A260E680096F540 /* DarkModeViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C02A260E680096F540 /* DarkModeViews.swift */; };
 		875991C52A2739920096F540 /* DarkPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C42A2739920096F540 /* DarkPickerView.swift */; };
@@ -34,6 +35,7 @@
 
 /* Begin PBXFileReference section */
 		873100EB2A32252B0054B4BD /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		875397002A350C0500AFC620 /* DenemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DenemView.swift; sourceTree = "<group>"; };
 		875991BE2A260D160096F540 /* ContextMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
 		875991C02A260E680096F540 /* DarkModeViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeViews.swift; sourceTree = "<group>"; };
 		875991C42A2739920096F540 /* DarkPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkPickerView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */,
 				879D7D0C2A2E1A6A0097CA05 /* CardView.swift */,
 				873100EB2A32252B0054B4BD /* GridView.swift */,
+				875397002A350C0500AFC620 /* DenemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */,
 				875991C52A2739920096F540 /* DarkPickerView.swift in Sources */,
 				876E98C92A2741A100C14839 /* ClockView.swift in Sources */,
+				875397012A350C0500AFC620 /* DenemView.swift in Sources */,
 				87FAD16E2A26096100D80338 /* Binding.swift in Sources */,
 				879D7D0D2A2E1A6A0097CA05 /* CardView.swift in Sources */,
 				87FAD1622A25F9AE00D80338 /* Animation2.swift in Sources */,
