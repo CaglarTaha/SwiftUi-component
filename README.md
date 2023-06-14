@@ -1,5 +1,5 @@
 
-# SwiftUI Component
+## SwiftUI Component
 
 This repository contains a collection of SwiftUI components that I have learned and developed as part of my journey to master SwiftUI.
 
