@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ListBootcamp: View {
+struct EditableListView: View {
     @State private var fruits: [String] = ["List Item 1", "List Item 2", "List Item 3", "List Item 4"]
     @State private var isShowingPopup = false
     @State private var newItem = ""
@@ -97,9 +97,9 @@ struct ListBootcamp: View {
     }
 }
 
-struct ListBootcamp_Previews: PreviewProvider {
+struct EditableListView_Previews: PreviewProvider {
     static var previews: some View {
-        ListBootcamp()
+        EditableListView()
     }
 }
 

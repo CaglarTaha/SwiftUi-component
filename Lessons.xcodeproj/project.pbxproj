@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		873100EC2A32252B0054B4BD /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873100EB2A32252B0054B4BD /* GridView.swift */; };
 		875397012A350C0500AFC620 /* DenemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875397002A350C0500AFC620 /* DenemView.swift */; };
-		875397032A39DA9800AFC620 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875397022A39DA9700AFC620 /* IconsView.swift */; };
+		875397032A39DA9800AFC620 /* EditableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875397022A39DA9700AFC620 /* EditableListView.swift */; };
 		875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991BE2A260D160096F540 /* ContextMenuView.swift */; };
 		875991C12A260E680096F540 /* DarkModeViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C02A260E680096F540 /* DarkModeViews.swift */; };
 		875991C52A2739920096F540 /* DarkPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875991C42A2739920096F540 /* DarkPickerView.swift */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		873100EB2A32252B0054B4BD /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
 		875397002A350C0500AFC620 /* DenemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DenemView.swift; sourceTree = "<group>"; };
-		875397022A39DA9700AFC620 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
+		875397022A39DA9700AFC620 /* EditableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditableListView.swift; sourceTree = "<group>"; };
 		875991BE2A260D160096F540 /* ContextMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
 		875991C02A260E680096F540 /* DarkModeViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeViews.swift; sourceTree = "<group>"; };
 		875991C42A2739920096F540 /* DarkPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkPickerView.swift; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 				879D7D0C2A2E1A6A0097CA05 /* CardView.swift */,
 				873100EB2A32252B0054B4BD /* GridView.swift */,
 				875397002A350C0500AFC620 /* DenemView.swift */,
-				875397022A39DA9700AFC620 /* IconsView.swift */,
+				875397022A39DA9700AFC620 /* EditableListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -227,7 +227,7 @@
 				875991BF2A260D160096F540 /* ContextMenuView.swift in Sources */,
 				87FAD1682A2600E200D80338 /* OverlayForBackgorund.swift in Sources */,
 				873100EC2A32252B0054B4BD /* GridView.swift in Sources */,
-				875397032A39DA9800AFC620 /* IconsView.swift in Sources */,
+				875397032A39DA9800AFC620 /* EditableListView.swift in Sources */,
 				87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */,
 				875991C52A2739920096F540 /* DarkPickerView.swift in Sources */,
 				876E98C92A2741A100C14839 /* ClockView.swift in Sources */,
