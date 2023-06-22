@@ -17,10 +17,13 @@
 		8765F8EA2A3C8E5300F76593 /* FacebookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8765F8E92A3C8E5300F76593 /* FacebookView.swift */; };
 		8765F8EC2A3C8F8900F76593 /* İnstagramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8765F8EB2A3C8F8900F76593 /* İnstagramView.swift */; };
 		876E98C92A2741A100C14839 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876E98C82A2741A100C14839 /* ClockView.swift */; };
+		878957AA2A447CF000405312 /* instaMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878957A92A447CF000405312 /* instaMessage.swift */; };
 		879D7D082A28BBA10097CA05 /* ApiCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879D7D072A28BBA10097CA05 /* ApiCall.swift */; };
 		879D7D0B2A2D20830097CA05 /* NavigateTolistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */; };
 		879D7D0D2A2E1A6A0097CA05 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879D7D0C2A2E1A6A0097CA05 /* CardView.swift */; };
 		87EA2DC42A3F5843004242FB /* tabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EA2DC32A3F5843004242FB /* tabView.swift */; };
+		87EA2DC62A3F5DCB004242FB /* Tap geasuter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EA2DC52A3F5DCB004242FB /* Tap geasuter.swift */; };
+		87EA2DC82A41D84B004242FB /* ListİtemEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EA2DC72A41D84A004242FB /* ListİtemEdit.swift */; };
 		87FAD14E2A25EF8700D80338 /* LessonsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14D2A25EF8700D80338 /* LessonsApp.swift */; };
 		87FAD1502A25EF8700D80338 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FAD14F2A25EF8700D80338 /* ContentView.swift */; };
 		87FAD1522A25EF8900D80338 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87FAD1512A25EF8900D80338 /* Assets.xcassets */; };
@@ -49,10 +52,13 @@
 		8765F8E92A3C8E5300F76593 /* FacebookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookView.swift; sourceTree = "<group>"; };
 		8765F8EB2A3C8F8900F76593 /* İnstagramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "İnstagramView.swift"; sourceTree = "<group>"; };
 		876E98C82A2741A100C14839 /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
+		878957A92A447CF000405312 /* instaMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instaMessage.swift; sourceTree = "<group>"; };
 		879D7D072A28BBA10097CA05 /* ApiCall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiCall.swift; sourceTree = "<group>"; };
 		879D7D0A2A2D20830097CA05 /* NavigateTolistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateTolistView.swift; sourceTree = "<group>"; };
 		879D7D0C2A2E1A6A0097CA05 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		87EA2DC32A3F5843004242FB /* tabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabView.swift; sourceTree = "<group>"; };
+		87EA2DC52A3F5DCB004242FB /* Tap geasuter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tap geasuter.swift"; sourceTree = "<group>"; };
+		87EA2DC72A41D84A004242FB /* ListİtemEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ListİtemEdit.swift"; sourceTree = "<group>"; };
 		87FAD14A2A25EF8700D80338 /* Lessons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lessons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87FAD14D2A25EF8700D80338 /* LessonsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsApp.swift; sourceTree = "<group>"; };
 		87FAD14F2A25EF8700D80338 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,8 +113,20 @@
 				875397022A39DA9700AFC620 /* EditableListView.swift */,
 				8765F8E72A3B4E9C00F76593 /* ArchiveView.swift */,
 				87EA2DC32A3F5843004242FB /* tabView.swift */,
+				87EA2DC52A3F5DCB004242FB /* Tap geasuter.swift */,
+				87EA2DC72A41D84A004242FB /* ListİtemEdit.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		878957AB2A44852600405312 /* İnsta */ = {
+			isa = PBXGroup;
+			children = (
+				8765F8EB2A3C8F8900F76593 /* İnstagramView.swift */,
+				878957A92A447CF000405312 /* instaMessage.swift */,
+			);
+			name = "İnsta";
+			path = "İnsta";
 			sourceTree = "<group>";
 		};
 		879D7D092A28BC5B0097CA05 /* Level1Lessons */ = {
@@ -145,7 +163,7 @@
 				87FAD1532A25EF8900D80338 /* Preview Content */,
 				879D7D072A28BBA10097CA05 /* ApiCall.swift */,
 				8765F8E92A3C8E5300F76593 /* FacebookView.swift */,
-				8765F8EB2A3C8F8900F76593 /* İnstagramView.swift */,
+				878957AB2A44852600405312 /* İnsta */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -230,6 +248,7 @@
 			files = (
 				87FAD1502A25EF8700D80338 /* ContentView.swift in Sources */,
 				87FAD15E2A25F4EB00D80338 /* AlertView.swift in Sources */,
+				87EA2DC62A3F5DCB004242FB /* Tap geasuter.swift in Sources */,
 				87FAD15C2A25F16200D80338 /* lessonsview.swift in Sources */,
 				875991C12A260E680096F540 /* DarkModeViews.swift in Sources */,
 				87FAD1722A260A3F00D80338 /* Buttons.swift in Sources */,
@@ -244,6 +263,7 @@
 				875397032A39DA9800AFC620 /* EditableListView.swift in Sources */,
 				87FAD16A2A26022D00D80338 /* MaterialBgView.swift in Sources */,
 				875991C52A2739920096F540 /* DarkPickerView.swift in Sources */,
+				878957AA2A447CF000405312 /* instaMessage.swift in Sources */,
 				876E98C92A2741A100C14839 /* ClockView.swift in Sources */,
 				875397012A350C0500AFC620 /* PieChartView.swift in Sources */,
 				87EA2DC42A3F5843004242FB /* tabView.swift in Sources */,
@@ -255,6 +275,7 @@
 				8765F8EC2A3C8F8900F76593 /* İnstagramView.swift in Sources */,
 				879D7D082A28BBA10097CA05 /* ApiCall.swift in Sources */,
 				87FAD14E2A25EF8700D80338 /* LessonsApp.swift in Sources */,
+				87EA2DC82A41D84B004242FB /* ListİtemEdit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
